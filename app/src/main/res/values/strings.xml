@@ -26,6 +26,7 @@
     <string name="select_alarm_to_dismiss">Select alarm to dismiss</string>
     <string name="alarm_created">Alarm created</string>
     <string name="alarm_snoozed">Alarm snoozed by %s</string>
+    <string name="alarm_will_ring_again">The alarm will ring again in %d minutes</string>
     <string name="no_alarms_found">No alarms found</string>
     <string name="add_alarm">Add alarm</string>
     <string name="no_timers_found">No timers found</string>
